@@ -1,5 +1,5 @@
-👋 Hi, I’m @lc0des. 
-I’m interested in Lightning Network Technology, publishing code and tutorials/guides. 👀 
+👋 Hi, I’m @lc0des.  
+I’m interested in Lightning Network Technology, publishing code and tutorials/guides. 👀   
 Igniting the Lightning since 2021
 
 <!---
